@@ -1,0 +1,16 @@
+1:"$Sreact.fragment"
+2:I[3840,["177","static/chunks/app/layout-be0af1082d5b5ad5.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+5:I[9665,[],"OutletBoundary"]
+7:I[4911,[],"AsyncMetadataOutlet"]
+9:I[9665,[],"ViewportBoundary"]
+b:I[9665,[],"MetadataBoundary"]
+c:"$Sreact.suspense"
+e:I[8393,[],""]
+:HL["/_next/static/css/0b73060e0288ebe3.css","style"]
+0:{"P":null,"b":"KDX2ZEnpavA4alddgzFX_","p":"","c":["","projects",""],"i":false,"f":[[["",{"children":["projects",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0b73060e0288ebe3.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_e8ce0c","children":[["$","$L2",null,{}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"children":[["$","h1",null,{"children":"404 - 페이지를 찾을 수 없습니다"}],["$","p",null,{"children":"죄송합니다, 요청하신 페이지는 존재하지 않습니다."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"footer","children":["$","p",null,{"children":["© ",2025," None. All Rights Reserved."]}]}]]}]}]]}],{"children":["projects",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","section",null,{"children":[["$","h1",null,{"children":"Projects"}],["$","div",null,{"children":[["$","h2",null,{"children":"Project 1"}],["$","p",null,{"children":"This is a React application..."}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Project 2"}],["$","p",null,{"children":"Another project where I implemented..."}]]}]]}],null,["$","$L5",null,{"children":["$L6",["$","$L7",null,{"promise":"$@8"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$L9",null,{"children":"$La"}],null],["$","$Lb",null,{"children":["$","div",null,{"hidden":true,"children":["$","$c",null,{"fallback":null,"children":"$Ld"}]}]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:null
+8:{"metadata":[],"error":null,"digest":"$undefined"}
+d:"$8:metadata"
