@@ -1,0 +1,17 @@
+1:"$Sreact.fragment"
+2:I[3840,["177","static/chunks/app/layout-f87c89d309b82d92.js"],"default"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+6:I[9665,[],"OutletBoundary"]
+8:I[4911,[],"AsyncMetadataOutlet"]
+a:I[9665,[],"ViewportBoundary"]
+c:I[9665,[],"MetadataBoundary"]
+d:"$Sreact.suspense"
+f:I[8393,[],""]
+:HL["/gitpage/_next/static/css/4b3e5461aaa69856.css","style"]
+0:{"P":null,"b":"gIIw3N1Qr-toK6R8CyQhh","p":"/gitpage","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/gitpage/_next/static/css/4b3e5461aaa69856.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_d62e0d","children":[["$","$L2",null,{}],["$","main",null,{"children":["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"children":[["$","h1",null,{"children":"404 - 페이지를 찾을 수 없습니다"}],["$","p",null,{"children":"죄송합니다, 요청하신 페이지는 존재하지 않습니다."}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"footer","children":["$","p",null,{"children":["© ",2025," None. All Rights Reserved."]}]}]]}]}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7",["$","$L8",null,{"promise":"$@9"}]]}]]}],{},null,false]},null,false],["$","$1","h",{"children":[null,[["$","$La",null,{"children":"$Lb"}],null],["$","$Lc",null,{"children":["$","div",null,{"hidden":true,"children":["$","$d",null,{"fallback":null,"children":"$Le"}]}]}]]}],false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+5:E{"digest":"NEXT_REDIRECT;replace;/about;307;"}
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+9:{"metadata":[],"error":null,"digest":"$undefined"}
+e:"$9:metadata"
